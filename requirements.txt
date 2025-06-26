@@ -1,0 +1,23 @@
+# PyTorch and related libraries - Commented out to avoid version conflicts in Colab
+# Uncomment the following lines if you are not using Colab or if you need specific versions
+#torch>=1.8.0
+#torchvision>=0.9.0
+
+# PyTorch Lightning for structured training loops (optional but useful)
+#pytorch-lightning>=1.5.0
+
+# For numerical operations and scientific computations
+numpy>=1.19.0
+scipy>=1.5.0
+
+# For image processing and visualization
+Pillow>=8.0.0
+matplotlib>=3.3.0
+pydicom>=2.0.0
+
+# To show progress during iterations
+tqdm>=4.50.0
+
+# (Optional) Jupyter Notebook support
+jupyterlab>=3.0.0
+jupyter-client<8,>=5.3.4
