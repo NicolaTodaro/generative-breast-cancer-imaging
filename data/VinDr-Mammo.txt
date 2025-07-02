@@ -1,0 +1,3 @@
+wget -r -N -c -np --user username --ask-password https://physionet.org/files/vindr-mammo/1.0.0/
+
+https://www.physionet.org/content/vindr-mammo/1.0.0/images/#files-panel
